@@ -1,0 +1,53 @@
+# .NET build artifacts
+bin/
+obj/
+out/
+
+# Visual Studio files
+.vscode/
+.vs/
+*.user
+*.suo
+
+# Rider files
+.idea/
+
+# Auto-generated files
+*.generated.cs
+
+# Backup files
+*.bak
+
+# Build results
+*.exe
+*.dll
+*.pdb
+*.app
+*.ipa
+*.log
+*.vsix
+*.nupkg
+*.snupkg
+*.symbols.nupkg
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# OS generated files
+.DS_Store
+*.swp
+._*
+
+# User-specific files
+*.user
+*.rsuser
+*.suo
+*.userosscache
+*.sln.docstates
+
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+# JetBrains Rider
+.idea/
