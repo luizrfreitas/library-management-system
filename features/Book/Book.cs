@@ -1,4 +1,4 @@
-namespace LibraryManegementSystem.Features.Library
+namespace LibraryManegementSystem.Features.Books
 {
     public class Book : AbstractBook
     {
